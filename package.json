@@ -13,6 +13,7 @@
     "@reduxjs/toolkit": "^2.2.3",
     "@thirdweb-dev/react": "^4.6.14",
     "@thirdweb-dev/sdk": "^4.0.75",
+    "dotenv": "^16.4.5",
     "ethers": "^5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
